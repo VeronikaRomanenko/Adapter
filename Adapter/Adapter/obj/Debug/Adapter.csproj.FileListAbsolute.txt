@@ -1,0 +1,14 @@
+D:\Вероника Романенко\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Вероника Романенко\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Вероника Романенко\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Вероника Романенко\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\Вероника Романенко\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Вероника Романенко\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Вероника Романенко\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\Вероника\Desktop\Вероника\ШАГ\Паттерны\Adapter\Adapter\obj\Debug\Adapter.pdb
